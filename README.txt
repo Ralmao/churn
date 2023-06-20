@@ -1,5 +1,5 @@
 churn
-using Random Forest Classifier for a churn dataset
+Using Random Forest Classifier for a churn dataset
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
