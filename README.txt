@@ -1,4 +1,4 @@
-# churn
+churn
 using Random Forest Classifier for a churn dataset
 import pandas as pd
 import numpy as np
